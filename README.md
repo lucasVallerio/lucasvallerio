@@ -1,4 +1,4 @@
-### Hi guys My name's Lucas Vallerio, I've passion for tech 👋
+### Hi guys My name's Lucas Vallerio, I'm passion for tech 👋
 
 - 🌱 I’m currently learning React, TypeScript and Python.
 -->
